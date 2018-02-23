@@ -1,2 +1,2 @@
 # hello-world
-Repo for all hello world examples
+This is the readme file for all applications in the hello-world project.
